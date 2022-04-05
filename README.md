@@ -1,5 +1,5 @@
 # 2022-J.B.-Hunt-Hackathon
-Code from the 2022 J.B. Hunt Hackathon
+
 Hey there!!
 This project is sort of a work in progress as it was constructed during a 24 hr hackathon which happened to be my first one.
 The Razbot file is one half of the project we worked on the other half will unfortunately not be open sourced :(
